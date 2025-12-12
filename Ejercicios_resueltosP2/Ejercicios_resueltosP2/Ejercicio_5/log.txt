@@ -1,0 +1,3 @@
+Nombre inválido Jo (menos de 4 letras)
+Nombre inválido Eva (menos de 4 letras)
+Nombre inválido Lu (menos de 4 letras)
